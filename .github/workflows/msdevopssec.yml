@@ -1,4 +1,4 @@
-name: MSDO ubuntu-latest
+name: MS Security Devops Analisys -EM
 on:
   push:
     branches:
